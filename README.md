@@ -4,7 +4,7 @@
 ## Overview and Origin
 Blockchain and cryptocurrency has stepped into the scene of financial services and has so far proved to be disruptive across several industries. Special focus will examine the unique value proposition of this technology(-ies) especially in the field of financial services using a major player in canada as an example. 
 
-Contributors: Sherin Solomon; Chimdike Ihe
+Contributors: Sherin Solomon; Chimdike Ih
 
 ### Introduction
 This case study will examine the financial services rendered by a Canadian company using Blockchain and Cryptocurrency technology
