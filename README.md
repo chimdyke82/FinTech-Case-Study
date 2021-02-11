@@ -11,9 +11,9 @@ This case study will examine the financial services rendered by a Canadian compa
 - Name of Company: National Digital Asset Exchange Inc. (NDAX)
 - Incorporation: The company was incorporated in 2017
 - Founders: The company is currently made up of 6 members.
-            Bilal Hammoud (CEO)
-            Ali Hammoud (Head of Technical Operations)
-            Abdulbadi Sabir (Software Developer)
-            Mohamed El-Rafih (Head of Product Management)
-            Julia Baranovskaya (Chief Compliance Officer)
+          -  Bilal Hammoud (CEO)
+          -  Ali Hammoud (Head of Technical Operations)
+          -  Abdulbadi Sabir (Software Developer)
+          -  Mohamed El-Rafih (Head of Product Management)
+          -  Julia Baranovskaya (Chief Compliance Officer)
   
