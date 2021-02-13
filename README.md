@@ -52,14 +52,48 @@ According to Crunchbase, NDAX uses 9 technology products and services including 
 ### Landscape
 NDAX is a firm player in the blockchain and cryptocurrency domain of the financial industry. It is considered to be amongst the top 3 best Crypto Exchanges in Canada.
 
+In the domain of clockchain and cryptocurrency, Blockchain has undergone three generations the first is Bitcoin and cryptocurrency the next is smart contracts and the third which is actually futuristic would be scalability. This is according to Investopedia on this link : 
+
+Since the emergence of Bitcoin in 2009, the blockchain technology has grown in leaps and bounds. More developments have occurred in its application in smart contracts and simple payments. In November of 2015, the ERC-20 token standard was proposed and adopted. Over the years we have seen hardforks occur amongst leading cryptocurrencies in response to demands. We have witnessed blockchain innovations in P2P payments, healthcare, supply chain, etc. it use in the creation of financial services has exploded the reaches of trading, funds transfer etc. This is the major technologyunderlying the operation of NDAX.
+
+What are the other major companies in this domain? According to Clutch, the top blockchain development companies in Canada include:
+- ITM House
+- Blockchain Foundary
+- Bitswift Technology Solutions Inc
+- Winterwind Inc
+- Brainsmiths lab
+
+According to BuyBitcoinworldwide, major echanges include:
+- Bitbuy
+- Netcoins
+- Satstreet	
+
 
 
 ### Results
+So far, this business has made possible the following:
+- Enabled highly secured financial transactions.
+- Low transaction costs against traditional financial systems
+- Faster transactions across the globe.
+- Enables easy and seamless asset conversion and trade of cryptocurrencies or digital currencies for other assets including conventional fiat money or different digital currencies. 
+- Persons get value right in their wallet.
 
+The performance of the company relative to others in its field is hard to establish. Truth be told, the company is quite new and information about its financials is hardly out there in public domain.
 
 ### Recommendations
+The company appears to be more skewed to the large volume trading and HNIs. I would recommend that it expands and makes its service more of a retail structure. The company already has a great thing going for it – strong connection with the bank which makes asset conversion to fiat so easy, they should sign up more asset pairs to expand the reach and activity of their services. I would recommend the company to issue its own coins and encourage activity around its use. I would further recommend easier payment or settlement methods like use of cards such that individuals could easily make normal out of pocket or bills payments so seamless.   
+
+I believe that it would strengthen its customer and capital base, turn up profitability and make it a more sustainable business as one of the largest already in Canada offering this kind of service.
+
+One of the technologies that would be used is blockchain. This technology is necessary to encrypt the transaction information.
 
 #### References
 1. ndax.io/about-us
 2. *Celebrating $200 Million of Institutional Trading, NDAX Expands OTC Desk for Global Investors, Sept. 22, 2020.* [Ref. Prnewswire](https://www.prnewswire.com/news-releases/celebrating-200-million-of-institutional-trading-ndax-expands-otc-desk-for-global-investors-301135342.html) 
 3. crunchbase.com/organization/ndax/technology
+4. *Impact of Bitcoin and Other Cryptocurrency on Small-scale Business, By Dean Bryan,* [Ref. YourStory](https://yourstory.com/mystory/impact-bitcoin-cryptocurrency-small-scale-business) 
+5. Cryptocurrency Exchanges, https://corporatefinanceinstitute.com/resources/knowledge/other/cryptocurrency-exchanges/
+6. https://clutch.co/ca/developers/blockchain 
+7. https://www.buybitcoinworldwide.com/canada/
+8. https://www.investopedia.com/tech/blockchain-technologys-three-generations/
+
